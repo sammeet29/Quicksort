@@ -1,0 +1,70 @@
+*****************************************************
+Quicksort Key Comparision :2281162
+Randomized Pivot Key Comparision :1977692
+Median of 3 Pivot Key Comparision :2181315
+Quicksort with insertion Key Comparision :2251898
+Randomized pivot and insertion Key Comparision :1914596
+Median of 3 pivot and insertion Key Comparision :2154602
+*****************************************************
+Quicksort Key Comparision :1960817
+Randomized Pivot Key Comparision :2124320
+Median of 3 Pivot Key Comparision :1872853
+Quicksort with insertion Key Comparision :1931231
+Randomized pivot and insertion Key Comparision :2038246
+Median of 3 pivot and insertion Key Comparision :1846662
+*****************************************************
+Quicksort Key Comparision :1920051
+Randomized Pivot Key Comparision :1996585
+Median of 3 Pivot Key Comparision :1968014
+Quicksort with insertion Key Comparision :1890647
+Randomized pivot and insertion Key Comparision :2012995
+Median of 3 pivot and insertion Key Comparision :1942269
+*****************************************************
+Quicksort Key Comparision :2082860
+Randomized Pivot Key Comparision :2025823
+Median of 3 Pivot Key Comparision :1917849
+Quicksort with insertion Key Comparision :2052817
+Randomized pivot and insertion Key Comparision :2025607
+Median of 3 pivot and insertion Key Comparision :1890988
+*****************************************************
+Quicksort Key Comparision :2034339
+Randomized Pivot Key Comparision :2027267
+Median of 3 Pivot Key Comparision :1986681
+Quicksort with insertion Key Comparision :2005197
+Randomized pivot and insertion Key Comparision :2176210
+Median of 3 pivot and insertion Key Comparision :1960334
+*****************************************************
+Quicksort Key Comparision :2131291
+Randomized Pivot Key Comparision :1972246
+Median of 3 Pivot Key Comparision :1949342
+Quicksort with insertion Key Comparision :2102513
+Randomized pivot and insertion Key Comparision :2000417
+Median of 3 pivot and insertion Key Comparision :1923446
+*****************************************************
+Quicksort Key Comparision :2140296
+Randomized Pivot Key Comparision :1982689
+Median of 3 Pivot Key Comparision :2027661
+Quicksort with insertion Key Comparision :2111197
+Randomized pivot and insertion Key Comparision :1974915
+Median of 3 pivot and insertion Key Comparision :2000831
+*****************************************************
+Quicksort Key Comparision :1978828
+Randomized Pivot Key Comparision :1877809
+Median of 3 Pivot Key Comparision :1998444
+Quicksort with insertion Key Comparision :1949057
+Randomized pivot and insertion Key Comparision :2019435
+Median of 3 pivot and insertion Key Comparision :1972159
+*****************************************************
+Quicksort Key Comparision :2070814
+Randomized Pivot Key Comparision :1942709
+Median of 3 Pivot Key Comparision :2023172
+Quicksort with insertion Key Comparision :2042138
+Randomized pivot and insertion Key Comparision :2043204
+Median of 3 pivot and insertion Key Comparision :1997133
+*****************************************************
+Quicksort Key Comparision :1950745
+Randomized Pivot Key Comparision :1973355
+Median of 3 Pivot Key Comparision :2038042
+Quicksort with insertion Key Comparision :1921436
+Randomized pivot and insertion Key Comparision :1975099
+Median of 3 pivot and insertion Key Comparision :2011715
