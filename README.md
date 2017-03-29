@@ -28,3 +28,5 @@ median_quicksort	->		Uses median of 3(first, middle, last) element as pivot for 
 median_with_insertion	->	Uses median of 3 and insertion sort for lower size inputs
 
 quicksort_all_applications ->	Prints out key comparision count for all the above implementation of quicksort
+
+** Compile and run quicksort_all_applications to get the key comparision count for each method as output.
